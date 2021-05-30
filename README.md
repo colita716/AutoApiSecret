@@ -152,6 +152,4 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   
   Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
   
-  最后的最后，再次感谢黑幕/paran大佬
-  
-  ————wangziyingwen/酷安id-卷腿毛菌
+  的最后，再次感谢黑幕/卷腿毛菌
